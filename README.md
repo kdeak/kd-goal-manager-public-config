@@ -1,0 +1,1 @@
+# kd-goal-manager-public-config
